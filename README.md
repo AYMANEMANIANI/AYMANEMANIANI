@@ -2,7 +2,7 @@
 <!---->
 <h1 align="center">Hi 👋, I'm AYMANE MANIANI</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
-<h4 align="center">I am a digital development student with a strong interest in the IT field, driven by a passion for learning and developing programming skills.
+<h4 align="left">I am a digital development student with a strong interest in the IT field, driven by a passion for learning and developing programming skills.
 Throughout my academic journey, I have honed my abilities in algorithmic thinking and problem-solving, and have enhanced my expertise in programming. I am eager to leverage these skills and contribute to innovative projects.</h4>
 
 <h3 align="left">Connect with me:</h3>
