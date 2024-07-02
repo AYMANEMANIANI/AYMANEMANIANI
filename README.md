@@ -8,6 +8,7 @@ Throughout my academic journey, I have honed my abilities in algorithmic thinkin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aymane-maniani-042142294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymane-maniani-042142294/" height="30" width="40" /></a>
+a href="https://www.linkedin.com/in/aymane-maniani-042142294/" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=GPb0Zcxn&id=4B321566983A2F9AC6A8DEAA4A41FF84AF2A7AEC&thid=OIP.GPb0ZcxnKxbRAXHa3xNw3QHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f016%2f716%2f465%2foriginal%2fgmail-icon-free-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.18f6f465cc672b16d10171dadf1370dd%3frik%3d7Hoqr4T%252fQUqq3g%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1920&q=image+gmail+icon&simid=608005222006136009&FORM=IRPRST&ck=7018497BC4426AC23EED4C031F9EB90C&selectedIndex=0&itb=1&ajaxhist=0&ajaxserp=0" alt="https://www.linkedin.com/in/aymane-maniani-042142294/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
